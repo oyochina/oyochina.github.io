@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
-#EXTINF:1 group-title="TVB" tvg-id="tvb/mytvsuperfree" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] myTV SUPER FREE
-http://192.168.1.8:4321/stream/tvb/mytvsuperfree/master.m3u8?u=admin&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
-
-#EXTINF:2 group-title="TVB" tvg-id="tvb/tvbplus" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] TVB Plus
-http://192.168.1.8:4321/stream/tvb/tvbplus/master.m3u8?u=admin&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
-
-#EXTINF:3 group-title="TVB" tvg-id="tvb/null" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 凤凰中文台
+#EXTINF:1 group-title="TVB" tvg-id="tvb/null" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 凤凰中文台
 http://192.168.1.8:4321/stream/tvb/null/master.m3u8?u=admin&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 
-#EXTINF:4 group-title="TVB" tvg-id="tvb/null-3" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 凤凰资讯台
+#EXTINF:2 group-title="TVB" tvg-id="tvb/null-3" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 凤凰资讯台
 http://192.168.1.8:4321/stream/tvb/null-3/master.m3u8?u=admin&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 
-#EXTINF:5 group-title="TVB" tvg-id="tvb/null-2" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 凤凰香港
+#EXTINF:3 group-title="TVB" tvg-id="tvb/null-2" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 凤凰香港
 http://192.168.1.8:4321/stream/tvb/null-2/master.m3u8?u=admin&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
+
+#EXTINF:4 group-title="TVB" tvg-id="tvb/mytvsuperfree" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] myTV SUPER FREE
+http://192.168.1.8:4321/stream/tvb/mytvsuperfree/master.m3u8?u=admin&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
+
+#EXTINF:5 group-title="TVB" tvg-id="tvb/tvbplus" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] TVB Plus
+http://192.168.1.8:4321/stream/tvb/tvbplus/master.m3u8?u=admin&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 
 #EXTINF:6 group-title="TVB" tvg-id="tvb/null-1" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 无线新闻台
 http://192.168.1.8:4321/stream/tvb/null-1/master.m3u8?u=admin&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
