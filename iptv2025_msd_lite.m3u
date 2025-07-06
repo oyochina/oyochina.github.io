@@ -1,3 +1,6 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="央视",CCTV4K
 http://192.168.200.10:7088/rtp/239.49.0.82:8000
 #EXTINF:-1 tvg-id="CCTV1HD" tvg-name="CCTV1HD" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1HD
