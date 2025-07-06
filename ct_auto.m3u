@@ -1,3 +1,6 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+
 #EXTINF:-1 tvg-id="CCTV9HD" tvg-name="CCTV9HD"group-title="其他"
 http://192.168.200.10:7088/rtp/239.49.8.53:9814
 #EXTINF:-1 tvg-id="CCTV新闻" tvg-name="CCTV新闻"group-title="其他"
