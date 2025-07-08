@@ -1,3 +1,5 @@
+#EXTINF:-1 tvg-id="CCTV9HD" tvg-name="CCTV9HD" group-title="央视",CCTV9HD
+http://192.168.200.10:7088/rtp/239.49.0.1:8000
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="其他",CGTN
 http://192.168.200.10:7088/rtp/239.49.0.5:9570
 #EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" group-title="其他",江苏城市
@@ -58,104 +60,8 @@ http://192.168.200.10:7088/rtp/239.49.0.110:9014
 http://192.168.200.10:7088/rtp/239.49.0.84:8000
 #EXTINF:-1 tvg-id="书画频道" tvg-name="书画频道" group-title="其他",书画频道
 http://192.168.200.10:7088/rtp/239.49.0.166:9322
-#EXTINF:-1 tvg-id="直播室1" tvg-name="直播室1" group-title="其他",直播室1
-http://192.168.200.10:7088/rtp/239.49.0.53:8416
-#EXTINF:-1 tvg-id="直播室2" tvg-name="直播室2" group-title="其他",直播室2
-http://192.168.200.10:7088/rtp/239.49.0.54:8424
-#EXTINF:-1 tvg-id="江苏省城市足球联赛1" tvg-name="江苏省城市足球联赛1" group-title="其他",江苏省城市足球联赛1
-http://192.168.200.10:7088/rtp/239.49.0.55:8432
-#EXTINF:-1 tvg-id="CGTN俄语HD" tvg-name="CGTN俄语HD" group-title="其他",CGTN俄语HD
-http://192.168.200.10:7088/rtp/239.49.0.100:8788
-#EXTINF:-1 tvg-id="江苏城市HD" tvg-name="江苏城市HD" group-title="其他",江苏城市HD
-http://192.168.200.10:7088/rtp/239.49.0.170:8000
-#EXTINF:-1 tvg-id="江苏综艺HD" tvg-name="江苏综艺HD" group-title="其他",江苏综艺HD
-http://192.168.200.10:7088/rtp/239.49.0.171:8000
-#EXTINF:-1 tvg-id="江苏体育休闲HD" tvg-name="江苏体育休闲HD" group-title="其他",江苏体育休闲HD
-http://192.168.200.10:7088/rtp/239.49.0.172:8000
-#EXTINF:-1 tvg-id="江苏影视HD" tvg-name="江苏影视HD" group-title="其他",江苏影视HD
-http://192.168.200.10:7088/rtp/239.49.0.178:8000
-#EXTINF:-1 tvg-id="优漫卡通HD" tvg-name="优漫卡通HD" group-title="其他",优漫卡通HD
-http://192.168.200.10:7088/rtp/239.49.0.180:8000
-#EXTINF:-1 tvg-id="江苏新闻HD" tvg-name="江苏新闻HD" group-title="其他",江苏新闻HD
-http://192.168.200.10:7088/rtp/239.49.0.245:8000
-#EXTINF:-1 tvg-id="好享购物HD" tvg-name="好享购物HD" group-title="其他",好享购物HD
-http://192.168.200.10:7088/rtp/239.49.0.165:8000
-#EXTINF:-1 tvg-id="江苏教育HD" tvg-name="江苏教育HD" group-title="其他",江苏教育HD
-http://192.168.200.10:7088/rtp/239.49.0.230:8000
-#EXTINF:-1 tvg-id="环球购物HD" tvg-name="环球购物HD" group-title="其他",环球购物HD
-http://192.168.200.10:7088/rtp/239.49.8.193:8000
-#EXTINF:-1 tvg-id="精彩推荐高清" tvg-name="精彩推荐高清" group-title="其他",精彩推荐高清
-http://192.168.200.10:7088/rtp/239.49.8.96:8000
-#EXTINF:-1 tvg-id="CETV1HD" tvg-name="CETV1HD" group-title="其他",CETV1HD
-http://192.168.200.10:7088/rtp/239.49.8.19:9614
-#EXTINF:-1 tvg-id="CETV4HD" tvg-name="CETV4HD" group-title="其他",CETV4HD
-http://192.168.200.10:7088/rtp/239.49.8.75:8000
-#EXTINF:-1 tvg-id="金鹰纪实HD" tvg-name="金鹰纪实HD" group-title="其他",金鹰纪实HD
-http://192.168.200.10:7088/rtp/239.49.0.127:8000
-#EXTINF:-1 tvg-id="金鹰卡通HD" tvg-name="金鹰卡通HD" group-title="其他",金鹰卡通HD
-http://192.168.200.10:7088/rtp/239.49.8.55:9822
-#EXTINF:-1 tvg-id="中国天气HD" tvg-name="中国天气HD" group-title="其他",中国天气HD
-http://192.168.200.10:7088/rtp/239.49.8.109:8000
-#EXTINF:-1 tvg-id="东方财经HD" tvg-name="东方财经HD" group-title="其他",东方财经HD
-http://192.168.200.10:7088/rtp/239.49.8.56:9826
-#EXTINF:-1 tvg-id="法治天地HD" tvg-name="法治天地HD" group-title="其他",法治天地HD
-http://192.168.200.10:7088/rtp/239.49.0.128:8000
-#EXTINF:-1 tvg-id="生活时尚HD" tvg-name="生活时尚HD" group-title="其他",生活时尚HD
-http://192.168.200.10:7088/rtp/239.49.8.31:8000
-#EXTINF:-1 tvg-id="都市剧场HD" tvg-name="都市剧场HD" group-title="其他",都市剧场HD
-http://192.168.200.10:7088/rtp/239.49.8.52:9810
-#EXTINF:-1 tvg-id="卡酷少儿HD" tvg-name="卡酷少儿HD" group-title="其他",卡酷少儿HD
-http://192.168.200.10:7088/rtp/239.49.0.111:8000
-#EXTINF:-1 tvg-id="家有购物HD" tvg-name="家有购物HD" group-title="其他",家有购物HD
-http://192.168.200.10:7088/rtp/239.49.8.16:9602
-#EXTINF:-1 tvg-id="南通3套" tvg-name="南通3套" group-title="其他",南通3套
-http://192.168.200.10:7088/rtp/239.49.8.107:8000
-#EXTINF:-1 tvg-id="央广购物HD" tvg-name="央广购物HD" group-title="其他",央广购物HD
-http://192.168.200.10:7088/rtp/239.49.8.108:8000
-#EXTINF:-1 tvg-id="优购物HD" tvg-name="优购物HD" group-title="其他",优购物HD
-http://192.168.200.10:7088/rtp/239.49.8.117:8000
-#EXTINF:-1 tvg-id="南通1套" tvg-name="南通1套" group-title="其他",南通1套
-http://192.168.200.10:7088/rtp/239.49.8.118:8000
-#EXTINF:-1 tvg-id="多机位6" tvg-name="多机位6" group-title="其他",多机位6
-http://192.168.200.10:7088/rtp/239.49.8.119:8000
-#EXTINF:-1 tvg-id="多机位2" tvg-name="多机位2" group-title="其他",多机位2
-http://192.168.200.10:7088/rtp/239.49.8.120:8000
-#EXTINF:-1 tvg-id="江苏省城市足球联赛3" tvg-name="江苏省城市足球联赛3" group-title="其他",江苏省城市足球联赛3
-http://192.168.200.10:7088/rtp/239.49.8.122:8000
-#EXTINF:-1 tvg-id="多机位3" tvg-name="多机位3" group-title="其他",多机位3
-http://192.168.200.10:7088/rtp/239.49.8.10:8000
-#EXTINF:-1 tvg-id="4K跨年直播1" tvg-name="4K跨年直播1" group-title="其他",4K跨年直播1
-http://192.168.200.10:7088/rtp/239.49.8.35:8620
-#EXTINF:-1 tvg-id="南通2套" tvg-name="南通2套" group-title="其他",南通2套
-http://192.168.200.10:7088/rtp/239.49.8.20:9618
-#EXTINF:-1 tvg-id="多画面导航" tvg-name="多画面导航" group-title="其他",多画面导航
-http://192.168.200.10:7088/rtp/239.49.8.57:9830
-#EXTINF:-1 tvg-id="江苏省城市足球联赛6" tvg-name="江苏省城市足球联赛6" group-title="其他",江苏省城市足球联赛6
-http://192.168.200.10:7088/rtp/239.49.8.123:8000
-#EXTINF:-1 tvg-id="江苏省城市足球联赛2" tvg-name="江苏省城市足球联赛2" group-title="其他",江苏省城市足球联赛2
-http://192.168.200.10:7088/rtp/239.49.8.48:8000
-#EXTINF:-1 tvg-id="江苏省城市足球联赛5" tvg-name="江苏省城市足球联赛5" group-title="其他",江苏省城市足球联赛5
-http://192.168.200.10:7088/rtp/239.49.8.83:8000
-#EXTINF:-1 tvg-id="江苏省城市足球联赛4" tvg-name="江苏省城市足球联赛4" group-title="其他",江苏省城市足球联赛4
-http://192.168.200.10:7088/rtp/239.49.8.110:8000
-#EXTINF:-1 tvg-id="开机直播专用" tvg-name="开机直播专用" group-title="其他",开机直播专用
-http://192.168.200.10:7088/rtp/239.49.8.111:8000
-#EXTINF:-1 tvg-id="4K跨年直播2" tvg-name="4K跨年直播2" group-title="其他",4K跨年直播2
-http://192.168.200.10:7088/rtp/239.49.8.113:8000
-#EXTINF:-1 tvg-id="多机位7" tvg-name="多机位7" group-title="其他",多机位7
-http://192.168.200.10:7088/rtp/239.49.8.114:8000
-#EXTINF:-1 tvg-id="多机位1" tvg-name="多机位1" group-title="其他",多机位1
-http://192.168.200.10:7088/rtp/239.49.8.17:9606
-#EXTINF:-1 tvg-id="多机位5" tvg-name="多机位5" group-title="其他",多机位5
-http://192.168.200.10:7088/rtp/239.49.8.11:9414
-#EXTINF:-1 tvg-id="CBA直播7" tvg-name="CBA直播7" group-title="其他",CBA直播7
-http://192.168.200.10:7088/rtp/239.49.8.12:9418
-#EXTINF:-1 tvg-id="CBA直播8" tvg-name="CBA直播8" group-title="其他",CBA直播8
-http://192.168.200.10:7088/rtp/239.49.8.13:9422
-#EXTINF:-1 tvg-id="羽毛球直播" tvg-name="羽毛球直播" group-title="其他",羽毛球直播
-http://192.168.200.10:7088/rtp/239.49.8.14:9426
-#EXTINF:-1 tvg-id="篮球世界" tvg-name="篮球世界" group-title="其他",篮球世界
-http://192.168.200.10:7088/rtp/239.49.8.15:9430
+#EXTINF:-1 tvg-id="CCTV164K（SDR）" tvg-name="CCTV164K（SDR）" group-title="央视",CCTV164K（SDR）
+http://192.168.200.10:7088/rtp/239.49.8.46:8000
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" group-title="地方卫视",北京卫视4K
 http://192.168.200.10:7088/rtp/239.49.8.64:8000
 #EXTINF:-1 tvg-id="北京卫视4K（HDR）" tvg-name="北京卫视4K（HDR）" group-title="地方卫视",北京卫视4K（HDR）
@@ -168,68 +74,12 @@ http://192.168.200.10:7088/rtp/239.49.0.50:8392
 http://192.168.200.10:7088/rtp/239.49.0.51:8400
 #EXTINF:-1 tvg-id="深圳卫视4K（HDR）" tvg-name="深圳卫视4K（HDR）" group-title="地方卫视",深圳卫视4K（HDR）
 http://192.168.200.10:7088/rtp/239.49.0.52:8408
-#EXTINF:-1 tvg-id="江苏卫视HD" tvg-name="江苏卫视HD" group-title="地方卫视",江苏卫视HD
-http://192.168.200.10:7088/rtp/239.49.0.147:8000
-#EXTINF:-1 tvg-id="广西卫视HD" tvg-name="广西卫视HD" group-title="地方卫视",广西卫视HD
-http://192.168.200.10:7088/rtp/239.49.0.240:8000
-#EXTINF:-1 tvg-id="天津卫视HD" tvg-name="天津卫视HD" group-title="地方卫视",天津卫视HD
-http://192.168.200.10:7088/rtp/239.49.0.114:8000
-#EXTINF:-1 tvg-id="浙江卫视HD" tvg-name="浙江卫视HD" group-title="地方卫视",浙江卫视HD
-http://192.168.200.10:7088/rtp/239.49.0.145:8000
-#EXTINF:-1 tvg-id="重庆卫视HD" tvg-name="重庆卫视HD" group-title="地方卫视",重庆卫视HD
-http://192.168.200.10:7088/rtp/239.49.0.146:8000
-#EXTINF:-1 tvg-id="辽宁卫视HD" tvg-name="辽宁卫视HD" group-title="地方卫视",辽宁卫视HD
-http://192.168.200.10:7088/rtp/239.49.0.205:8000
-#EXTINF:-1 tvg-id="海南卫视HD" tvg-name="海南卫视HD" group-title="地方卫视",海南卫视HD
-http://192.168.200.10:7088/rtp/239.49.0.209:8000
-#EXTINF:-1 tvg-id="四川卫视HD" tvg-name="四川卫视HD" group-title="地方卫视",四川卫视HD
-http://192.168.200.10:7088/rtp/239.49.0.190:9458
-#EXTINF:-1 tvg-id="江西卫视HD" tvg-name="江西卫视HD" group-title="地方卫视",江西卫视HD
-http://192.168.200.10:7088/rtp/239.49.0.123:8000
-#EXTINF:-1 tvg-id="东南卫视HD" tvg-name="东南卫视HD" group-title="地方卫视",东南卫视HD
-http://192.168.200.10:7088/rtp/239.49.0.233:8000
-#EXTINF:-1 tvg-id="吉林卫视HD" tvg-name="吉林卫视HD" group-title="地方卫视",吉林卫视HD
-http://192.168.200.10:7088/rtp/239.49.0.235:8000
-#EXTINF:-1 tvg-id="河北卫视HD" tvg-name="河北卫视HD" group-title="地方卫视",河北卫视HD
-http://192.168.200.10:7088/rtp/239.49.0.109:8000
-#EXTINF:-1 tvg-id="东方卫视HD" tvg-name="东方卫视HD" group-title="地方卫视",东方卫视HD
-http://192.168.200.10:7088/rtp/239.49.0.42:8000
-#EXTINF:-1 tvg-id="北京卫视HD" tvg-name="北京卫视HD" group-title="地方卫视",北京卫视HD
-http://192.168.200.10:7088/rtp/239.49.0.253:8000
-#EXTINF:-1 tvg-id="湖南卫视HD" tvg-name="湖南卫视HD" group-title="地方卫视",湖南卫视HD
-http://192.168.200.10:7088/rtp/239.49.1.24:8000
-#EXTINF:-1 tvg-id="广东卫视HD" tvg-name="广东卫视HD" group-title="地方卫视",广东卫视HD
-http://192.168.200.10:7088/rtp/239.49.1.26:8000
-#EXTINF:-1 tvg-id="黑龙江卫视HD" tvg-name="黑龙江卫视HD" group-title="地方卫视",黑龙江卫视HD
-http://192.168.200.10:7088/rtp/239.49.1.27:8000
-#EXTINF:-1 tvg-id="深圳卫视HD" tvg-name="深圳卫视HD" group-title="地方卫视",深圳卫视HD
-http://192.168.200.10:7088/rtp/239.49.1.28:8000
-#EXTINF:-1 tvg-id="云南卫视HD" tvg-name="云南卫视HD" group-title="地方卫视",云南卫视HD
-http://192.168.200.10:7088/rtp/239.49.8.151:6000
-#EXTINF:-1 tvg-id="山东卫视HD" tvg-name="山东卫视HD" group-title="地方卫视",山东卫视HD
-http://192.168.200.10:7088/rtp/239.49.8.63:9354
-#EXTINF:-1 tvg-id="贵州卫视HD" tvg-name="贵州卫视HD" group-title="地方卫视",贵州卫视HD
-http://192.168.200.10:7088/rtp/239.49.8.50:9802
-#EXTINF:-1 tvg-id="安徽卫视HD" tvg-name="安徽卫视HD" group-title="地方卫视",安徽卫视HD
-http://192.168.200.10:7088/rtp/239.49.8.74:8000
-#EXTINF:-1 tvg-id="湖北卫视HD" tvg-name="湖北卫视HD" group-title="地方卫视",湖北卫视HD
-http://192.168.200.10:7088/rtp/239.49.8.51:9806
-#EXTINF:-1 tvg-id="河南卫视HD" tvg-name="河南卫视HD" group-title="地方卫视",河南卫视HD
-http://192.168.200.10:7088/rtp/239.49.8.76:8000
-#EXTINF:-1 tvg-id="三沙卫视HD" tvg-name="三沙卫视HD" group-title="地方卫视",三沙卫视HD
-http://192.168.200.10:7088/rtp/239.49.0.126:8000
-#EXTINF:-1 tvg-id="甘肃卫视HD" tvg-name="甘肃卫视HD" group-title="地方卫视",甘肃卫视HD
-http://192.168.200.10:7088/rtp/239.49.8.77:8000
-#EXTINF:-1 tvg-id="青海卫视HD" tvg-name="青海卫视HD" group-title="地方卫视",青海卫视HD
-http://192.168.200.10:7088/rtp/239.49.8.54:9818
-#EXTINF:-1 tvg-id="山东教育卫视HD" tvg-name="山东教育卫视HD" group-title="地方卫视",山东教育卫视HD
-http://192.168.200.10:7088/rtp/239.49.8.18:9610
-#EXTINF:-1 tvg-id="江苏卫视高清" tvg-name="江苏卫视高清" group-title="地方卫视",江苏卫视高清
-http://192.168.200.10:7088/rtp/239.49.8.121:8000
-#EXTINF:-1 tvg-id="CCTV9HD" tvg-name="CCTV9HD" group-title="央视",CCTV9HD
-http://192.168.200.10:7088/rtp/239.49.0.1:8000
-#EXTINF:-1 tvg-id="CCTV164K（SDR）" tvg-name="CCTV164K（SDR）" group-title="央视",CCTV164K（SDR）
-http://192.168.200.10:7088/rtp/239.49.8.46:8000
+#EXTINF:-1 tvg-id="直播室1" tvg-name="直播室1" group-title="其他",直播室1
+http://192.168.200.10:7088/rtp/239.49.0.53:8416
+#EXTINF:-1 tvg-id="直播室2" tvg-name="直播室2" group-title="其他",直播室2
+http://192.168.200.10:7088/rtp/239.49.0.54:8424
+#EXTINF:-1 tvg-id="江苏省城市足球联赛1" tvg-name="江苏省城市足球联赛1" group-title="其他",江苏省城市足球联赛1
+http://192.168.200.10:7088/rtp/239.49.0.55:8432
 #EXTINF:-1 tvg-id="CCTV1HD" tvg-name="CCTV1HD" group-title="央视",CCTV1HD
 http://192.168.200.10:7088/rtp/239.49.0.56:8440
 #EXTINF:-1 tvg-id="CCTV2HD" tvg-name="CCTV2HD" group-title="央视",CCTV2HD
@@ -264,5 +114,155 @@ http://192.168.200.10:7088/rtp/239.49.0.70:8552
 http://192.168.200.10:7088/rtp/239.49.0.71:8560
 #EXTINF:-1 tvg-id="CCTV5HD" tvg-name="CCTV5HD" group-title="央视",CCTV5HD
 http://192.168.200.10:7088/rtp/239.49.0.72:8568
+#EXTINF:-1 tvg-id="CGTN俄语HD" tvg-name="CGTN俄语HD" group-title="其他",CGTN俄语HD
+http://192.168.200.10:7088/rtp/239.49.0.100:8788
+#EXTINF:-1 tvg-id="江苏卫视HD" tvg-name="江苏卫视HD" group-title="地方卫视",江苏卫视HD
+http://192.168.200.10:7088/rtp/239.49.0.147:8000
+#EXTINF:-1 tvg-id="江苏城市HD" tvg-name="江苏城市HD" group-title="其他",江苏城市HD
+http://192.168.200.10:7088/rtp/239.49.0.170:8000
+#EXTINF:-1 tvg-id="江苏综艺HD" tvg-name="江苏综艺HD" group-title="其他",江苏综艺HD
+http://192.168.200.10:7088/rtp/239.49.0.171:8000
+#EXTINF:-1 tvg-id="江苏体育休闲HD" tvg-name="江苏体育休闲HD" group-title="其他",江苏体育休闲HD
+http://192.168.200.10:7088/rtp/239.49.0.172:8000
+#EXTINF:-1 tvg-id="江苏影视HD" tvg-name="江苏影视HD" group-title="其他",江苏影视HD
+http://192.168.200.10:7088/rtp/239.49.0.178:8000
+#EXTINF:-1 tvg-id="优漫卡通HD" tvg-name="优漫卡通HD" group-title="其他",优漫卡通HD
+http://192.168.200.10:7088/rtp/239.49.0.180:8000
+#EXTINF:-1 tvg-id="江苏新闻HD" tvg-name="江苏新闻HD" group-title="其他",江苏新闻HD
+http://192.168.200.10:7088/rtp/239.49.0.245:8000
+#EXTINF:-1 tvg-id="好享购物HD" tvg-name="好享购物HD" group-title="其他",好享购物HD
+http://192.168.200.10:7088/rtp/239.49.0.165:8000
+#EXTINF:-1 tvg-id="江苏教育HD" tvg-name="江苏教育HD" group-title="其他",江苏教育HD
+http://192.168.200.10:7088/rtp/239.49.0.230:8000
+#EXTINF:-1 tvg-id="广西卫视HD" tvg-name="广西卫视HD" group-title="地方卫视",广西卫视HD
+http://192.168.200.10:7088/rtp/239.49.0.240:8000
+#EXTINF:-1 tvg-id="天津卫视HD" tvg-name="天津卫视HD" group-title="地方卫视",天津卫视HD
+http://192.168.200.10:7088/rtp/239.49.0.114:8000
+#EXTINF:-1 tvg-id="浙江卫视HD" tvg-name="浙江卫视HD" group-title="地方卫视",浙江卫视HD
+http://192.168.200.10:7088/rtp/239.49.0.145:8000
+#EXTINF:-1 tvg-id="重庆卫视HD" tvg-name="重庆卫视HD" group-title="地方卫视",重庆卫视HD
+http://192.168.200.10:7088/rtp/239.49.0.146:8000
+#EXTINF:-1 tvg-id="环球购物HD" tvg-name="环球购物HD" group-title="其他",环球购物HD
+http://192.168.200.10:7088/rtp/239.49.8.193:8000
+#EXTINF:-1 tvg-id="辽宁卫视HD" tvg-name="辽宁卫视HD" group-title="地方卫视",辽宁卫视HD
+http://192.168.200.10:7088/rtp/239.49.0.205:8000
+#EXTINF:-1 tvg-id="海南卫视HD" tvg-name="海南卫视HD" group-title="地方卫视",海南卫视HD
+http://192.168.200.10:7088/rtp/239.49.0.209:8000
+#EXTINF:-1 tvg-id="四川卫视HD" tvg-name="四川卫视HD" group-title="地方卫视",四川卫视HD
+http://192.168.200.10:7088/rtp/239.49.0.190:9458
+#EXTINF:-1 tvg-id="江西卫视HD" tvg-name="江西卫视HD" group-title="地方卫视",江西卫视HD
+http://192.168.200.10:7088/rtp/239.49.0.123:8000
+#EXTINF:-1 tvg-id="东南卫视HD" tvg-name="东南卫视HD" group-title="地方卫视",东南卫视HD
+http://192.168.200.10:7088/rtp/239.49.0.233:8000
+#EXTINF:-1 tvg-id="吉林卫视HD" tvg-name="吉林卫视HD" group-title="地方卫视",吉林卫视HD
+http://192.168.200.10:7088/rtp/239.49.0.235:8000
+#EXTINF:-1 tvg-id="河北卫视HD" tvg-name="河北卫视HD" group-title="地方卫视",河北卫视HD
+http://192.168.200.10:7088/rtp/239.49.0.109:8000
+#EXTINF:-1 tvg-id="东方卫视HD" tvg-name="东方卫视HD" group-title="地方卫视",东方卫视HD
+http://192.168.200.10:7088/rtp/239.49.0.42:8000
+#EXTINF:-1 tvg-id="北京卫视HD" tvg-name="北京卫视HD" group-title="地方卫视",北京卫视HD
+http://192.168.200.10:7088/rtp/239.49.0.253:8000
+#EXTINF:-1 tvg-id="湖南卫视HD" tvg-name="湖南卫视HD" group-title="地方卫视",湖南卫视HD
+http://192.168.200.10:7088/rtp/239.49.1.24:8000
+#EXTINF:-1 tvg-id="广东卫视HD" tvg-name="广东卫视HD" group-title="地方卫视",广东卫视HD
+http://192.168.200.10:7088/rtp/239.49.1.26:8000
+#EXTINF:-1 tvg-id="黑龙江卫视HD" tvg-name="黑龙江卫视HD" group-title="地方卫视",黑龙江卫视HD
+http://192.168.200.10:7088/rtp/239.49.1.27:8000
+#EXTINF:-1 tvg-id="深圳卫视HD" tvg-name="深圳卫视HD" group-title="地方卫视",深圳卫视HD
+http://192.168.200.10:7088/rtp/239.49.1.28:8000
+#EXTINF:-1 tvg-id="云南卫视HD" tvg-name="云南卫视HD" group-title="地方卫视",云南卫视HD
+http://192.168.200.10:7088/rtp/239.49.8.151:6000
+#EXTINF:-1 tvg-id="山东卫视HD" tvg-name="山东卫视HD" group-title="地方卫视",山东卫视HD
+http://192.168.200.10:7088/rtp/239.49.8.63:9354
+#EXTINF:-1 tvg-id="精彩推荐高清" tvg-name="精彩推荐高清" group-title="其他",精彩推荐高清
+http://192.168.200.10:7088/rtp/239.49.8.96:8000
+#EXTINF:-1 tvg-id="CETV1HD" tvg-name="CETV1HD" group-title="其他",CETV1HD
+http://192.168.200.10:7088/rtp/239.49.8.19:9614
+#EXTINF:-1 tvg-id="贵州卫视HD" tvg-name="贵州卫视HD" group-title="地方卫视",贵州卫视HD
+http://192.168.200.10:7088/rtp/239.49.8.50:9802
+#EXTINF:-1 tvg-id="安徽卫视HD" tvg-name="安徽卫视HD" group-title="地方卫视",安徽卫视HD
+http://192.168.200.10:7088/rtp/239.49.8.74:8000
+#EXTINF:-1 tvg-id="湖北卫视HD" tvg-name="湖北卫视HD" group-title="地方卫视",湖北卫视HD
+http://192.168.200.10:7088/rtp/239.49.8.51:9806
+#EXTINF:-1 tvg-id="CETV4HD" tvg-name="CETV4HD" group-title="其他",CETV4HD
+http://192.168.200.10:7088/rtp/239.49.8.75:8000
+#EXTINF:-1 tvg-id="河南卫视HD" tvg-name="河南卫视HD" group-title="地方卫视",河南卫视HD
+http://192.168.200.10:7088/rtp/239.49.8.76:8000
+#EXTINF:-1 tvg-id="三沙卫视HD" tvg-name="三沙卫视HD" group-title="地方卫视",三沙卫视HD
+http://192.168.200.10:7088/rtp/239.49.0.126:8000
+#EXTINF:-1 tvg-id="甘肃卫视HD" tvg-name="甘肃卫视HD" group-title="地方卫视",甘肃卫视HD
+http://192.168.200.10:7088/rtp/239.49.8.77:8000
+#EXTINF:-1 tvg-id="青海卫视HD" tvg-name="青海卫视HD" group-title="地方卫视",青海卫视HD
+http://192.168.200.10:7088/rtp/239.49.8.54:9818
+#EXTINF:-1 tvg-id="金鹰纪实HD" tvg-name="金鹰纪实HD" group-title="其他",金鹰纪实HD
+http://192.168.200.10:7088/rtp/239.49.0.127:8000
+#EXTINF:-1 tvg-id="金鹰卡通HD" tvg-name="金鹰卡通HD" group-title="其他",金鹰卡通HD
+http://192.168.200.10:7088/rtp/239.49.8.55:9822
+#EXTINF:-1 tvg-id="中国天气HD" tvg-name="中国天气HD" group-title="其他",中国天气HD
+http://192.168.200.10:7088/rtp/239.49.8.109:8000
+#EXTINF:-1 tvg-id="东方财经HD" tvg-name="东方财经HD" group-title="其他",东方财经HD
+http://192.168.200.10:7088/rtp/239.49.8.56:9826
+#EXTINF:-1 tvg-id="法治天地HD" tvg-name="法治天地HD" group-title="其他",法治天地HD
+http://192.168.200.10:7088/rtp/239.49.0.128:8000
+#EXTINF:-1 tvg-id="生活时尚HD" tvg-name="生活时尚HD" group-title="其他",生活时尚HD
+http://192.168.200.10:7088/rtp/239.49.8.31:8000
+#EXTINF:-1 tvg-id="都市剧场HD" tvg-name="都市剧场HD" group-title="其他",都市剧场HD
+http://192.168.200.10:7088/rtp/239.49.8.52:9810
+#EXTINF:-1 tvg-id="山东教育卫视HD" tvg-name="山东教育卫视HD" group-title="地方卫视",山东教育卫视HD
+http://192.168.200.10:7088/rtp/239.49.8.18:9610
+#EXTINF:-1 tvg-id="卡酷少儿HD" tvg-name="卡酷少儿HD" group-title="其他",卡酷少儿HD
+http://192.168.200.10:7088/rtp/239.49.0.111:8000
+#EXTINF:-1 tvg-id="家有购物HD" tvg-name="家有购物HD" group-title="其他",家有购物HD
+http://192.168.200.10:7088/rtp/239.49.8.16:9602
+#EXTINF:-1 tvg-id="南通3套" tvg-name="南通3套" group-title="其他",南通3套
+http://192.168.200.10:7088/rtp/239.49.8.107:8000
+#EXTINF:-1 tvg-id="央广购物HD" tvg-name="央广购物HD" group-title="其他",央广购物HD
+http://192.168.200.10:7088/rtp/239.49.8.108:8000
+#EXTINF:-1 tvg-id="优购物HD" tvg-name="优购物HD" group-title="其他",优购物HD
+http://192.168.200.10:7088/rtp/239.49.8.117:8000
+#EXTINF:-1 tvg-id="南通1套" tvg-name="南通1套" group-title="其他",南通1套
+http://192.168.200.10:7088/rtp/239.49.8.118:8000
+#EXTINF:-1 tvg-id="多机位6" tvg-name="多机位6" group-title="其他",多机位6
+http://192.168.200.10:7088/rtp/239.49.8.119:8000
+#EXTINF:-1 tvg-id="多机位2" tvg-name="多机位2" group-title="其他",多机位2
+http://192.168.200.10:7088/rtp/239.49.8.120:8000
+#EXTINF:-1 tvg-id="江苏卫视高清" tvg-name="江苏卫视高清" group-title="地方卫视",江苏卫视高清
+http://192.168.200.10:7088/rtp/239.49.8.121:8000
+#EXTINF:-1 tvg-id="江苏省城市足球联赛3" tvg-name="江苏省城市足球联赛3" group-title="其他",江苏省城市足球联赛3
+http://192.168.200.10:7088/rtp/239.49.8.122:8000
+#EXTINF:-1 tvg-id="多机位3" tvg-name="多机位3" group-title="其他",多机位3
+http://192.168.200.10:7088/rtp/239.49.8.10:8000
+#EXTINF:-1 tvg-id="4K跨年直播1" tvg-name="4K跨年直播1" group-title="其他",4K跨年直播1
+http://192.168.200.10:7088/rtp/239.49.8.35:8620
+#EXTINF:-1 tvg-id="南通2套" tvg-name="南通2套" group-title="其他",南通2套
+http://192.168.200.10:7088/rtp/239.49.8.20:9618
+#EXTINF:-1 tvg-id="多画面导航" tvg-name="多画面导航" group-title="其他",多画面导航
+http://192.168.200.10:7088/rtp/239.49.8.57:9830
+#EXTINF:-1 tvg-id="江苏省城市足球联赛6" tvg-name="江苏省城市足球联赛6" group-title="其他",江苏省城市足球联赛6
+http://192.168.200.10:7088/rtp/239.49.8.123:8000
+#EXTINF:-1 tvg-id="江苏省城市足球联赛2" tvg-name="江苏省城市足球联赛2" group-title="其他",江苏省城市足球联赛2
+http://192.168.200.10:7088/rtp/239.49.8.48:8000
+#EXTINF:-1 tvg-id="江苏省城市足球联赛5" tvg-name="江苏省城市足球联赛5" group-title="其他",江苏省城市足球联赛5
+http://192.168.200.10:7088/rtp/239.49.8.83:8000
+#EXTINF:-1 tvg-id="江苏省城市足球联赛4" tvg-name="江苏省城市足球联赛4" group-title="其他",江苏省城市足球联赛4
+http://192.168.200.10:7088/rtp/239.49.8.110:8000
+#EXTINF:-1 tvg-id="开机直播专用" tvg-name="开机直播专用" group-title="其他",开机直播专用
+http://192.168.200.10:7088/rtp/239.49.8.111:8000
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="央视",CCTV4K
 http://192.168.200.10:7088/rtp/239.49.8.112:8000
+#EXTINF:-1 tvg-id="4K跨年直播2" tvg-name="4K跨年直播2" group-title="其他",4K跨年直播2
+http://192.168.200.10:7088/rtp/239.49.8.113:8000
+#EXTINF:-1 tvg-id="多机位7" tvg-name="多机位7" group-title="其他",多机位7
+http://192.168.200.10:7088/rtp/239.49.8.114:8000
+#EXTINF:-1 tvg-id="多机位1" tvg-name="多机位1" group-title="其他",多机位1
+http://192.168.200.10:7088/rtp/239.49.8.17:9606
+#EXTINF:-1 tvg-id="多机位5" tvg-name="多机位5" group-title="其他",多机位5
+http://192.168.200.10:7088/rtp/239.49.8.11:9414
+#EXTINF:-1 tvg-id="CBA直播7" tvg-name="CBA直播7" group-title="其他",CBA直播7
+http://192.168.200.10:7088/rtp/239.49.8.12:9418
+#EXTINF:-1 tvg-id="CBA直播8" tvg-name="CBA直播8" group-title="其他",CBA直播8
+http://192.168.200.10:7088/rtp/239.49.8.13:9422
+#EXTINF:-1 tvg-id="羽毛球直播" tvg-name="羽毛球直播" group-title="其他",羽毛球直播
+http://192.168.200.10:7088/rtp/239.49.8.14:9426
+#EXTINF:-1 tvg-id="篮球世界" tvg-name="篮球世界" group-title="其他",篮球世界
+http://192.168.200.10:7088/rtp/239.49.8.15:9430
