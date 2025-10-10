@@ -92,8 +92,18 @@ http://192.168.200.10:7088/rtp/239.49.1.26:8000
 http://192.168.200.10:7088/rtp/239.49.1.27:8000
 #EXTINF:-1 tvg-id="深圳卫视4K（HDR）" tvg-name="深圳卫视4K（HDR）" group-title="地方卫视",深圳卫视4K（HDR）
 http://192.168.200.10:7088/rtp/239.49.1.28:8000
-#EXTINF:-1 tvg-id="深圳卫视4K（HDR）" tvg-name="江苏卫视4K（HDR）" group-title="地方卫视",江苏卫视4K（HDR）
+#EXTINF:-1 tvg-id="江苏卫视4K（HDR）" tvg-name="江苏卫视4K（HDR）" group-title="地方卫视",江苏卫视4K（HDR）
 http://192.168.200.10:7088/rtp/239.49.1.62:8000
+#EXTINF:-1 tvg-id="浙江卫视4K（HDR）" tvg-name="浙江卫视4K（HDR）" group-title="地方卫视",浙江卫视4K（HDR）
+http://192.168.200.10:7088/rtp/239.49.1.63:8000
+#EXTINF:-1 tvg-id="四川卫视4K（HDR）" tvg-name="四川卫视4K（HDR）" group-title="地方卫视",四川卫视4K（HDR）
+http://192.168.200.10:7088/rtp/239.49.1.65:8000
+#EXTINF:-1 tvg-id="湖南卫视4K（HDR）" tvg-name="湖南卫视4K（HDR）" group-title="地方卫视",湖南卫视4K（HDR）
+http://192.168.200.10:7088/rtp/239.49.1.67:8000
+#EXTINF:-1 tvg-id="东方卫视4K（HDR）" tvg-name="东方卫视4K（HDR）" group-title="地方卫视",东方卫视4K（HDR）
+http://192.168.200.10:7088/rtp/239.49.1.69:8000
+#EXTINF:-1 tvg-id="山东卫视4K（HDR）" tvg-name="山东卫视4K（HDR）" group-title="地方卫视",山东卫视4K（HDR）
+http://192.168.200.10:7088/rtp/239.49.1.71:8000
 #EXTINF:-1 tvg-id="江苏卫视HD" tvg-name="江苏卫视HD" group-title="地方卫视",江苏卫视HD
 http://192.168.200.10:7088/rtp/239.49.8.16:9602
 #EXTINF:-1 tvg-id="江苏城市HD" tvg-name="江苏城市HD" group-title="地方卫视",江苏城市HD
@@ -214,4 +224,5 @@ http://192.168.200.10:7088/rtp/239.49.8.31:8000
 http://192.168.200.10:7088/rtp/239.49.0.109:8000
 #EXTINF:-1 tvg-id="CCTV17HD" tvg-name="CCTV17HD" group-title="央视",CCTV17HD
 http://192.168.200.10:7088/rtp/239.49.8.52:9810
+
 
