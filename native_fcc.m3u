@@ -63,7 +63,7 @@ rtp://239.49.8.74:8000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4HD" group-title="央视",CCTV4HD
 rtp://239.49.8.51:9806?fcc=180.100.72.185:15970
 
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5HD" group-title="央视",CCTV5HD
+#EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV5HD" group-title="央视",CCTV5HD
 rtp://239.49.8.75:8000?fcc=180.100.72.185:15970
 
 #EXTINF:-1 tvg-id="CCTV5plus" tvg-name="CCTV5+HD" group-title="央视",CCTV5+HD
@@ -323,6 +323,7 @@ rtp://239.49.0.224:8000?fcc=180.100.72.185:15970
 
 #EXTINF:-1 tvg-id="开机直播专用" tvg-name="开机直播专用" group-title="其他",开机直播专用
 rtp://239.49.0.1:8000?fcc=180.100.72.185:15970
+
 
 
 
