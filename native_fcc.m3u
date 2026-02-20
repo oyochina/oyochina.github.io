@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml,https://epg.fanmingming.com/epg.xml"
 #EXTINF:-1 tvg-id="睛彩竞技HD（限免）" tvg-name="睛彩竞技HD（限免）" group-title="体育",睛彩竞技HD（限免）
 rtp://239.49.8.39:8000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="睛彩篮球HD（限免）" tvg-name="睛彩篮球HD（限免）" group-title="体育",睛彩篮球HD（限免）
@@ -40,20 +41,12 @@ rtp://239.49.8.79:8000?fcc=180.100.72.185:15970
 rtp://239.49.0.197:8000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="南通1套" tvg-name="南通1套" group-title="其他",南通1套
 rtp://239.49.0.223:8000?fcc=180.100.72.185:15970
-#EXTINF:-1 tvg-id="多机位6" tvg-name="多机位6" group-title="其他",多机位6
-rtp://239.49.0.251:8000?fcc=180.100.72.185:15970
-#EXTINF:-1 tvg-id="多机位2" tvg-name="多机位2" group-title="其他",多机位2
-rtp://239.49.8.66:9372?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="江苏省城市足球联赛3" tvg-name="江苏省城市足球联赛3" group-title="体育",江苏省城市足球联赛3
 rtp://239.49.8.98:8000?fcc=180.100.72.185:15970
-#EXTINF:-1 tvg-id="多机位3" tvg-name="多机位3" group-title="其他",多机位3
-rtp://239.49.8.67:9376?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="4K跨年直播1" tvg-name="4K跨年直播1" group-title="其他",4K跨年直播1
 rtp://239.49.8.38:8000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="南通2套" tvg-name="南通2套" group-title="其他",南通2套
 rtp://239.49.0.224:8000?fcc=180.100.72.185:15970
-#EXTINF:-1 tvg-id="多画面导航" tvg-name="多画面导航" group-title="其他",多画面导航
-rtp://239.49.8.73:8000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="江苏省城市足球联赛6" tvg-name="江苏省城市足球联赛6" group-title="体育",江苏省城市足球联赛6
 rtp://239.49.8.101:8000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="江苏省城市足球联赛2" tvg-name="江苏省城市足球联赛2" group-title="体育",江苏省城市足球联赛2
@@ -66,12 +59,6 @@ rtp://239.49.8.99:8000?fcc=180.100.72.185:15970
 rtp://239.49.0.1:8000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="4K跨年直播2" tvg-name="4K跨年直播2" group-title="其他",4K跨年直播2
 rtp://239.49.8.82:8000?fcc=180.100.72.185:15970
-#EXTINF:-1 tvg-id="多机位7" tvg-name="多机位7" group-title="其他",多机位7
-rtp://239.49.0.191:8000?fcc=180.100.72.185:15970
-#EXTINF:-1 tvg-id="多机位1" tvg-name="多机位1" group-title="其他",多机位1
-rtp://239.49.8.65:9368?fcc=180.100.72.185:15970
-#EXTINF:-1 tvg-id="多机位5" tvg-name="多机位5" group-title="其他",多机位5
-rtp://239.49.8.69:9384?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="CBA直播7" tvg-name="CBA直播7" group-title="体育",CBA直播7
 rtp://239.49.8.97:8000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="CBA直播8" tvg-name="CBA直播8" group-title="其他",CBA直播8
