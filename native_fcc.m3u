@@ -51,58 +51,58 @@ rtp://239.49.8.82:8000?fcc=180.100.72.185:15970
 
 # ===== 央视 =====
 
-#EXTINF:-1 tvg-id="CCTV1HD" tvg-name="CCTV1HD" group-title="央视",CCTV1HD
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1HD" group-title="央视",CCTV1HD
 rtp://239.49.8.19:9614?fcc=180.100.72.185:15970
 
-#EXTINF:-1 tvg-id="CCTV2HD" tvg-name="CCTV2HD" group-title="央视",CCTV2HD
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2HD" group-title="央视",CCTV2HD
 rtp://239.49.8.50:9802?fcc=180.100.72.185:15970
 
-#EXTINF:-1 tvg-id="CCTV3HD" tvg-name="CCTV3HD" group-title="央视",CCTV3HD
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3HD" group-title="央视",CCTV3HD
 rtp://239.49.8.74:8000?fcc=180.100.72.185:15970
 
-#EXTINF:-1 tvg-id="CCTV4HD" tvg-name="CCTV4HD" group-title="央视",CCTV4HD
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4HD" group-title="央视",CCTV4HD
 rtp://239.49.8.51:9806?fcc=180.100.72.185:15970
 
-#EXTINF:-1 tvg-id="CCTV5HD" tvg-name="CCTV5HD" group-title="央视",CCTV5HD
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5HD" group-title="央视",CCTV5HD
 rtp://239.49.8.75:8000?fcc=180.100.72.185:15970
 
-#EXTINF:-1 tvg-id="CCTV5+HD" tvg-name="CCTV5+HD" group-title="央视",CCTV5+HD
+#EXTINF:-1 tvg-id="CCTV5plus" tvg-name="CCTV5+HD" group-title="央视",CCTV5+HD
 rtp://239.49.8.18:9610?fcc=180.100.72.185:15970
 
-#EXTINF:-1 tvg-id="CCTV6HD" tvg-name="CCTV6HD" group-title="央视",CCTV6HD
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6HD" group-title="央视",CCTV6HD
 rtp://239.49.8.76:8000?fcc=180.100.72.185:15970
 
-#EXTINF:-1 tvg-id="CCTV7HD" tvg-name="CCTV7HD" group-title="央视",CCTV7HD
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7HD" group-title="央视",CCTV7HD
 rtp://239.49.0.126:8000?fcc=180.100.72.185:15970
 
-#EXTINF:-1 tvg-id="CCTV8HD" tvg-name="CCTV8HD" group-title="央视",CCTV8HD
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8HD" group-title="央视",CCTV8HD
 rtp://239.49.8.77:8000?fcc=180.100.72.185:15970
 
-#EXTINF:-1 tvg-id="CCTV9HD" tvg-name="CCTV9HD" group-title="央视",CCTV9HD
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9HD" group-title="央视",CCTV9HD
 rtp://239.49.8.53:9814?fcc=180.100.72.185:15970
 
-#EXTINF:-1 tvg-id="CCTV10HD" tvg-name="CCTV10HD" group-title="央视",CCTV10HD
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10HD" group-title="央视",CCTV10HD
 rtp://239.49.8.54:9818?fcc=180.100.72.185:15970
 
-#EXTINF:-1 tvg-id="CCTV11HD" tvg-name="CCTV11HD" group-title="央视",CCTV11HD
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11HD" group-title="央视",CCTV11HD
 rtp://239.49.0.127:8000?fcc=180.100.72.185:15970
 
-#EXTINF:-1 tvg-id="CCTV12HD" tvg-name="CCTV12HD" group-title="央视",CCTV12HD
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12HD" group-title="央视",CCTV12HD
 rtp://239.49.8.55:9822?fcc=180.100.72.185:15970
 
-#EXTINF:-1 tvg-id="CCTV13HD" tvg-name="CCTV13HD" group-title="央视",CCTV13HD
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13HD" group-title="央视",CCTV13HD
 rtp://239.49.8.109:8000?fcc=180.100.72.185:15970
 
-#EXTINF:-1 tvg-id="CCTV14HD" tvg-name="CCTV14HD" group-title="央视",CCTV14HD
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14HD" group-title="央视",CCTV14HD
 rtp://239.49.8.56:9826?fcc=180.100.72.185:15970
 
-#EXTINF:-1 tvg-id="CCTV音乐HD" tvg-name="CCTV音乐HD" group-title="央视",CCTV音乐HD
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV音乐HD" group-title="央视",CCTV音乐HD
 rtp://239.49.0.128:8000?fcc=180.100.72.185:15970
 
-#EXTINF:-1 tvg-id="CCTV16HD" tvg-name="CCTV16HD" group-title="央视",CCTV16HD
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16HD" group-title="央视",CCTV16HD
 rtp://239.49.8.31:8000?fcc=180.100.72.185:15970
 
-#EXTINF:-1 tvg-id="CCTV17HD" tvg-name="CCTV17HD" group-title="央视",CCTV17HD
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17HD" group-title="央视",CCTV17HD
 rtp://239.49.8.52:9810?fcc=180.100.72.185:15970
 
 # ===== 地方卫视 =====
@@ -323,6 +323,7 @@ rtp://239.49.0.224:8000?fcc=180.100.72.185:15970
 
 #EXTINF:-1 tvg-id="开机直播专用" tvg-name="开机直播专用" group-title="其他",开机直播专用
 rtp://239.49.0.1:8000?fcc=180.100.72.185:15970
+
 
 
 
