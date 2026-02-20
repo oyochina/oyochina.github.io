@@ -1,9 +1,8 @@
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" group-title="超清4K",北京卫视4K
 rtp://239.49.0.42:8000?fcc=180.100.72.185:15970
-
 #EXTINF:-1 tvg-id="北京卫视4K（HDR）" tvg-name="北京卫视4K（HDR）" group-title="超清4K",北京卫视4K（HDR）
 rtp://239.49.0.253:8000?fcc=180.100.72.185:15970
-
 #EXTINF:-1 tvg-id="广东卫视4K（SDR）" tvg-name="广东卫视4K（SDR）" group-title="超清4K",广东卫视4K（SDR）
 rtp://239.49.1.24:8000?fcc=180.100.72.185:15970
+
 
