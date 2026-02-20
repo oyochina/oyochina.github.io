@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml,https://epg.fanmingming.com/epg.xml"
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz"
 #EXTINF:-1 tvg-id="睛彩竞技HD（限免）" tvg-name="睛彩竞技HD（限免）" group-title="体育",睛彩竞技HD（限免）
 rtp://239.49.8.39:8000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="睛彩篮球HD（限免）" tvg-name="睛彩篮球HD（限免）" group-title="体育",睛彩篮球HD（限免）
@@ -211,3 +211,4 @@ rtp://239.49.8.31:8000?fcc=180.100.72.185:15970
 rtp://239.49.0.109:8000?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-id="CCTV17HD" tvg-name="CCTV17HD" group-title="央视",CCTV17HD
 rtp://239.49.8.52:9810?fcc=180.100.72.185:15970
+
