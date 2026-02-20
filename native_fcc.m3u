@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml,https://epg.fanmingming.com/epg.xml"
+#EXTM3U x-tvg-url="https://iptv.burningc4.com/guide.xml"
 # ===== 超清4K =====
 
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" group-title="超清4K",北京卫视4K
@@ -323,5 +323,6 @@ rtp://239.49.0.224:8000?fcc=180.100.72.185:15970
 
 #EXTINF:-1 tvg-id="开机直播专用" tvg-name="开机直播专用" group-title="其他",开机直播专用
 rtp://239.49.0.1:8000?fcc=180.100.72.185:15970
+
 
 
