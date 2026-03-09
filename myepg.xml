@@ -3,97 +3,97 @@
   <channel id="CCTV1-HD">
     <display-name>CCTV1-HD</display-name>
   </channel>
-  <programme start="20260309000000" stop="20260309004700" channel="CCTV1-HD">
+  <programme start="20260309000000 +0800" stop="20260309004700 +0800" channel="CCTV1-HD">
     <title>山水间的家Ⅳ(8)</title>
   </programme>
-  <programme start="20260309004700" stop="20260309014900" channel="CCTV1-HD">
+  <programme start="20260309004700 +0800" stop="20260309014900 +0800" channel="CCTV1-HD">
     <title>花开中国:福建.漳州篇</title>
   </programme>
-  <programme start="20260309014900" stop="20260309021900" channel="CCTV1-HD">
+  <programme start="20260309014900 +0800" stop="20260309021900 +0800" channel="CCTV1-HD">
     <title>晚间新闻</title>
   </programme>
-  <programme start="20260309021900" stop="20260309023000" channel="CCTV1-HD">
+  <programme start="20260309021900 +0800" stop="20260309023000 +0800" channel="CCTV1-HD">
     <title>中华古树:黄帝手植柏</title>
   </programme>
-  <programme start="20260309023000" stop="20260309040300" channel="CCTV1-HD">
+  <programme start="20260309023000 +0800" stop="20260309040300 +0800" channel="CCTV1-HD">
     <title>山水间的家Ⅳ(8)</title>
   </programme>
-  <programme start="20260309040300" stop="20260309043600" channel="CCTV1-HD">
+  <programme start="20260309040300 +0800" stop="20260309043600 +0800" channel="CCTV1-HD">
     <title>本草流芳:当归</title>
   </programme>
-  <programme start="20260309043600" stop="20260309052700" channel="CCTV1-HD">
+  <programme start="20260309043600 +0800" stop="20260309052700 +0800" channel="CCTV1-HD">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260309052700" stop="20260309055900" channel="CCTV1-HD">
+  <programme start="20260309052700 +0800" stop="20260309055900 +0800" channel="CCTV1-HD">
     <title>农耕探文明(19)</title>
   </programme>
-  <programme start="20260309055900" stop="20260309060000" channel="CCTV1-HD">
+  <programme start="20260309055900 +0800" stop="20260309060000 +0800" channel="CCTV1-HD">
     <title>中华人民共和国国歌</title>
   </programme>
-  <programme start="20260309060000" stop="20260309070000" channel="CCTV1-HD">
+  <programme start="20260309060000 +0800" stop="20260309070000 +0800" channel="CCTV1-HD">
     <title>朝闻天下</title>
   </programme>
-  <programme start="20260309070000" stop="20260309070100" channel="CCTV1-HD">
+  <programme start="20260309070000 +0800" stop="20260309070100 +0800" channel="CCTV1-HD">
     <title>中华人民共和国国歌</title>
   </programme>
-  <programme start="20260309070100" stop="20260309074500" channel="CCTV1-HD">
+  <programme start="20260309070100 +0800" stop="20260309074500 +0800" channel="CCTV1-HD">
     <title>朝闻天下</title>
   </programme>
-  <programme start="20260309074500" stop="20260309090000" channel="CCTV1-HD">
+  <programme start="20260309074500 +0800" stop="20260309090000 +0800" channel="CCTV1-HD">
     <title>聚焦两会</title>
   </programme>
-  <programme start="20260309090000" stop="20260309094000" channel="CCTV1-HD">
+  <programme start="20260309090000 +0800" stop="20260309094000 +0800" channel="CCTV1-HD">
     <title>十四届全国人大四次会议二次全会</title>
   </programme>
-  <programme start="20260309094000" stop="20260309120000" channel="CCTV1-HD">
+  <programme start="20260309094000 +0800" stop="20260309120000 +0800" channel="CCTV1-HD">
     <title>聚焦两会</title>
   </programme>
-  <programme start="20260309120000" stop="20260309123400" channel="CCTV1-HD">
+  <programme start="20260309120000 +0800" stop="20260309123400 +0800" channel="CCTV1-HD">
     <title>新闻30分</title>
   </programme>
-  <programme start="20260309123400" stop="20260309130800" channel="CCTV1-HD">
+  <programme start="20260309123400 +0800" stop="20260309130800 +0800" channel="CCTV1-HD">
     <title>今日说法</title>
   </programme>
-  <programme start="20260309130800" stop="20260309135500" channel="CCTV1-HD">
+  <programme start="20260309130800 +0800" stop="20260309135500 +0800" channel="CCTV1-HD">
     <title>纯真年代的爱情(28)</title>
   </programme>
-  <programme start="20260309135500" stop="20260309144200" channel="CCTV1-HD">
+  <programme start="20260309135500 +0800" stop="20260309144200 +0800" channel="CCTV1-HD">
     <title>纯真年代的爱情(29)</title>
   </programme>
-  <programme start="20260309144200" stop="20260309153100" channel="CCTV1-HD">
+  <programme start="20260309144200 +0800" stop="20260309153100 +0800" channel="CCTV1-HD">
     <title>岁月有情时(1)</title>
   </programme>
-  <programme start="20260309153100" stop="20260309162400" channel="CCTV1-HD">
+  <programme start="20260309153100 +0800" stop="20260309162400 +0800" channel="CCTV1-HD">
     <title>岁月有情时(2)</title>
   </programme>
-  <programme start="20260309162400" stop="20260309171400" channel="CCTV1-HD">
+  <programme start="20260309162400 +0800" stop="20260309171400 +0800" channel="CCTV1-HD">
     <title>岁月有情时(3)</title>
   </programme>
-  <programme start="20260309171400" stop="20260309190000" channel="CCTV1-HD">
+  <programme start="20260309171400 +0800" stop="20260309190000 +0800" channel="CCTV1-HD">
     <title>山水间的家Ⅳ(1)</title>
   </programme>
-  <programme start="20260309190000" stop="20260309193900" channel="CCTV1-HD">
+  <programme start="20260309190000 +0800" stop="20260309193900 +0800" channel="CCTV1-HD">
     <title>新闻联播</title>
   </programme>
-  <programme start="20260309193900" stop="20260309200500" channel="CCTV1-HD">
+  <programme start="20260309193900 +0800" stop="20260309200500 +0800" channel="CCTV1-HD">
     <title>焦点访谈</title>
   </programme>
-  <programme start="20260309200500" stop="20260309205800" channel="CCTV1-HD">
+  <programme start="20260309200500 +0800" stop="20260309205800 +0800" channel="CCTV1-HD">
     <title>好好的时光(17)</title>
   </programme>
-  <programme start="20260309205800" stop="20260309215300" channel="CCTV1-HD">
+  <programme start="20260309205800 +0800" stop="20260309215300 +0800" channel="CCTV1-HD">
     <title>好好的时光(18)</title>
   </programme>
-  <programme start="20260309215300" stop="20260309220000" channel="CCTV1-HD">
+  <programme start="20260309215300 +0800" stop="20260309220000 +0800" channel="CCTV1-HD">
     <title>&lt;三餐四季Ⅱ&gt;宣传片</title>
   </programme>
-  <programme start="20260309220000" stop="20260309223600" channel="CCTV1-HD">
+  <programme start="20260309220000 +0800" stop="20260309223600 +0800" channel="CCTV1-HD">
     <title>晚间新闻</title>
   </programme>
-  <programme start="20260309223600" stop="20260309231100" channel="CCTV1-HD">
+  <programme start="20260309223600 +0800" stop="20260309231100 +0800" channel="CCTV1-HD">
     <title>自然中国:地矿宝藏-高山寻石</title>
   </programme>
-  <programme start="20260309231100" stop="20260309235900" channel="CCTV1-HD">
+  <programme start="20260309231100 +0800" stop="20260309235900 +0800" channel="CCTV1-HD">
     <title>中华考工记(5)</title>
   </programme>
 </tv>
