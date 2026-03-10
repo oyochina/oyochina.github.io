@@ -9,7 +9,7 @@ http://192.168.1.8:5140/rtp/239.49.8.74:8000?fcc=180.100.72.185:15970
 http://192.168.1.8:5140/rtp/239.49.8.51:9806?fcc=180.100.72.185:15970
 #EXTINF:-1 group-title="央视", catchup="default" catchup-source="http://192.168.1.8:5140/http/gslb.itv.jsinfo.net:6060/00000002/01000000000000000000000209123269/index.m3u8?Playtype=1&Playseek=${(b)yyyyMMddHHmmss:utc}-${(e)yyyyMMddHHmmss:utc}",CCTV-5
 http://192.168.1.8:5140/rtp/239.49.8.75:8000?fcc=180.100.72.185:15970
-#EXTINF:-1 group-title="央视", catchup="default" catchup-source="http://192.168.1.8:5140/http/gslb.itv.jsinfo.net:6060/00000002/01000000000002242213000002930093/index.m3u8?Playtype=1&Playseek=${(b)yyyyMMddHHmmss:utc}-${(e)yyyyMMddHHmmss:utc}",CCTV-5+
+#EXTINF:-1 group-title="央视", catchup="default" catchup-source="http://192.168.1.8:5140/http/gslb.itv.jsinfo.net:6060/00000002/01000000000002242213000002930093/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV-5+
 http://192.168.1.8:5140/rtp/239.49.8.18:9610?fcc=180.100.72.185:15970
 #EXTINF:-1 group-title="央视", catchup="default" catchup-source="http://192.168.1.8:5140/http/gslb.itv.jsinfo.net:6060/00000002/01000000000000000000000209123271/index.m3u8?Playtype=1&Playseek=${(b)yyyyMMddHHmmss:utc}-${(e)yyyyMMddHHmmss:utc}",CCTV-6
 http://192.168.1.8:5140/rtp/239.49.8.76:8000?fcc=180.100.72.185:15970
