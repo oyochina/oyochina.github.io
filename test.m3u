@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-name="CCTV1HD" catchup="default" catchup-source="http://192.168.1.8:5140/http/gslb.itv.jsinfo.net:6060/00000002/01000000000009320253000002939369/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV-1
+#EXTINF:-1 group-title="央视" tvg-id="CCTV1" tvg-name="CCTV1HD" catchup="default" catchup-source="http://192.168.1.8:5140/http/gslb.itv.jsinfo.net:6060/00000002/01000000000009320253000002939369/index.m3u8?Playtype=1&Playseek=${(b)yyyyMMddHHmmss:utc}-${(e)yyyyMMddHHmmss:utc}",CCTV-1
 http://192.168.1.8:5140/rtp/239.49.8.19:9614?fcc=180.100.72.185:15970
 #EXTINF:-1 group-title="央视", catchup="default" catchup-source="http://192.168.1.8:5140/http/gslb.itv.jsinfo.net:6060/00000002/01000000000003592955000012435088/index.m3u8?Playtype=1&Playseek=${(b)yyyyMMddHHmmss:utc}-${(e)yyyyMMddHHmmss:utc}",CCTV-2
 http://192.168.1.8:5140/rtp/239.49.8.50:9802?fcc=180.100.72.185:15970
